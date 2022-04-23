@@ -1,6 +1,7 @@
 package com.elecgrid.crud.billingManagement.model;
 
-public class billingModel {
+public class billingModel 
+ {
 	
 	private int bill_id;
 	private String bill_desc;
